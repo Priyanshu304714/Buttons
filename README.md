@@ -50,4 +50,4 @@ To use the button designs, follow these steps:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/Priyanhsu304714/Buttons.git
+   https://github.com/Priyanshu304714/Buttons.git
