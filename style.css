@@ -54,3 +54,12 @@ button {
     color: #fb0606;
     box-shadow: 4px 4px 30px 4px;
 }
+.b3:active {
+    scale: 0.5;
+    background-color: #5eee0b;
+    transition: 0.5s;
+    color: #fb0606;
+    box-shadow: 4px 4px 30px 4px;
+    /* rotate: 360deg; */
+    border-radius: 50%;
+}
